@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorScheme", "ColorScheme\ColorScheme.csproj", "{F600F096-9AA7-4BF0-BAB9-2277A2267685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F600F096-9AA7-4BF0-BAB9-2277A2267685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F600F096-9AA7-4BF0-BAB9-2277A2267685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F600F096-9AA7-4BF0-BAB9-2277A2267685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F600F096-9AA7-4BF0-BAB9-2277A2267685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B7E2008-4B89-4C25-99A4-2D6257401A8A}
+	EndGlobalSection
+EndGlobal
